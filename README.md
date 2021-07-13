@@ -1,2 +1,2 @@
 # tawsn2020
-Tugas Akhir Teknik Elektro
+go to WebPythonFlask repo
